@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
-* text=auto
-*.gcode linguist-detectable
+#* text=auto
+*.cfg linguist-detectable=true
+*.G-code linguist-detectable=true 
